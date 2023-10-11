@@ -1,0 +1,11 @@
+C:\Pliki_Lekcji\PW\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Pliki_Lekcji\PW\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Pliki_Lekcji\PW\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Pliki_Lekcji\PW\Projekt\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Pliki_Lekcji\PW\Projekt\Projekt\obj\Debug\Projekt.csproj.SuggestedBindingRedirects.cache
+C:\Pliki_Lekcji\PW\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Pliki_Lekcji\PW\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Pliki_Lekcji\PW\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Pliki_Lekcji\PW\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Pliki_Lekcji\PW\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Pliki_Lekcji\PW\Projekt\Projekt\obj\Debug\Projekt.pdb
